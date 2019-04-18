@@ -1,0 +1,17 @@
+{
+    "name": "mniebergall/hacking-with-php",
+    "description": "Code to go along with Hacking with PHP presentation",
+    "authors": [
+        {
+            "name": "Mark Niebergall",
+            "email": "mbniebergall@gmail.com"
+        }
+    ],
+    "require": {
+        "skyzyx/bad-passwords": "dev-master",
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.8"
+    }
+}
