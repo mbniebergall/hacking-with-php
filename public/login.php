@@ -1,6 +1,6 @@
 <?php
 
-if ($_POST['username'] == 'admin' && $_POST['password'] == '0000') {
+if ($_POST['username'] == 'admin' && $_POST['password'] == 'abcd1234') {
     echo json_encode(['success' => true]);
     return;
 }
